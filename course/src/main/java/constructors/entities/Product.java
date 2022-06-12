@@ -1,4 +1,4 @@
-package entities;
+package constructors.entities;
 
 public class Product {
 
